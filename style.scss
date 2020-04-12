@@ -102,10 +102,15 @@ span{
   #wordUI{
    margin: 10px 0;
    padding-top: 20px;
-   font-size: 40px;
+   font-size: 25px;
    color: orange;
    font-family: 'Courier New', Courier, monospace;
    font-weight: 500;
+  }
+
+
+  #score, #timeLeft{
+   font-size: 14px;
   }
  }
  .footer{
