@@ -106,8 +106,8 @@ span {
     font-family: 'Courier New', Courier, monospace;
     font-weight: 500;
   }
-  #content #score, #content #timeLeft {
-    font-size: 14px;
+  #content h6 {
+    font-size: 18px;
   }
   .footer {
     font-size: 15px;
