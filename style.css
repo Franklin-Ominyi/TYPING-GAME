@@ -91,4 +91,16 @@ span {
 .footer a:hover {
   color: red;
 }
+
+@media screen and (max-width: 768px) {
+  #content {
+    font-size: 14px;
+  }
+  #content h3 {
+    padding-top: 10px;
+  }
+  .footer {
+    font-size: 14px;
+  }
+}
 /*# sourceMappingURL=style.css.map */
