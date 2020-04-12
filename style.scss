@@ -78,7 +78,7 @@ span{
  background: blue;
  text-align: center;
  font-size: 16px;
- margin-top: 10px;
+ // margin-top: px;
  bottom: 0vh;
  color: white;
 
@@ -93,7 +93,7 @@ span{
 
 @media screen and (max-width: 768px){
  #content{
-  font-size: 14px;
+  font-size: 15px;
 
   h3{
    padding-top: 10px;
@@ -102,13 +102,13 @@ span{
   #wordUI{
    margin: 10px 0;
    padding-top: 20px;
-   font-size: 30px;
+   font-size: 40px;
    color: orange;
    font-family: 'Courier New', Courier, monospace;
    font-weight: 500;
   }
  }
  .footer{
-  font-size: 14px;
+  font-size: 15px;
  }
 }
